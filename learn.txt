@@ -1,0 +1,7 @@
+c 
+python -- basics of python 
+          oops concept
+          exceptional handling
+          file iostream
+          multi threading 
+sql 
