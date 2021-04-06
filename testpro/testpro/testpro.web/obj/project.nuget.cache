@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XcA4tyc4WX8XpARuA7tgKnQfITFotLAtSXinjFoFSdAfgCi5VOcD/b7wQ6BMvcQMUwTMFxtpMgbp4iTI4RD8Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lokesh\\Desktop\\testpro\\testpro\\testpro.web\\testpro.web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lokesh\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lokesh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lokesh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
